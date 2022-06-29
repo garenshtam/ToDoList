@@ -1,8 +1,6 @@
 This is the project Preview!
-### `n![todolist snippet](https://user-images.githubusercontent.com/23304648/176538142-d48de8f7-0491-48a9-ab23-3ef18e246a0d.PNG)
-pm run build` fails to minify
 
-
+![todolist snippet](https://user-images.githubusercontent.com/23304648/176538397-68ee15dd-bdee-408c-87ef-1f314c864910.PNG)
 
 
 # Getting Started with Create React App
